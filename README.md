@@ -8,7 +8,7 @@ An aspiring AI/ML Intern and Data Enthusiast dedicated to building intelligent s
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Programming Languages** | Python, Basic SQL |
+| **Programming Languages** | Python |
 | **Libraries & Frameworks** | NumPy, Pandas, Matplotlib, Scikit-learn, OpenCV, TensorFlow/Keras |
 | **Core AI/ML Concepts** | Regression, Classification, Clustering, Model Evaluation, EDA, Computer Vision |
 | **Tools & Platforms** | VS Code, Jupyter Notebook, Google Colab, Git/GitHub |
@@ -21,7 +21,7 @@ An aspiring AI/ML Intern and Data Enthusiast dedicated to building intelligent s
 * **Tech Stack:** Python, Computer Vision, OpenCV
 * **Description:** Developed a smart, touchless presentation control system that allows users to navigate PowerPoint slides using real-time hand gestures.
 * **Key Features:** Implemented real-time hand tracking, optimized gesture detection accuracy, and designed smooth user interactions ideal for smart classrooms.
-* **🔗 [View Repository](https://github.com/sktechx) | 📹 [Demo Video](#)** *(Replace with your actual links)*
+* **🔗 [View Repository](https://github.com/sktechx/HandtrackingController) 
 
 #### 🚦 Traffic Signal System (ML Classification)
 * **Tech Stack:** Python, Scikit-learn, Image Processing
@@ -48,8 +48,9 @@ An aspiring AI/ML Intern and Data Enthusiast dedicated to building intelligent s
 ### 📜 Certifications & Achievements
 
 * 🏅 **1st Prize Winner** - Web Development Competition
-* 📜 **Artificial Intelligence & Machine Learning** - Ansh Infotech & Skill India
+* 📜 **Artificial Intelligence & Machine Learning** - Ansh Infotech
 * 📜 **Python & Intro to Programming** - Kaggle
+* 📜 **Artificial Intelligence & Machine Learning** - Skill India
 
 ---
 
